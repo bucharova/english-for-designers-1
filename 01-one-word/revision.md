@@ -9,7 +9,7 @@
 
 ### Hook
 
-I feel like an idiot while doing my job. A lot.
+<mark>I feel like an idiot while doing my job. A lot.</mark>
 
 Now there’s a damn good chance I’m actually an idiot, but the self-respecting part of me wants to challenge that notion.
 
