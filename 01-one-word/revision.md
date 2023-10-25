@@ -9,7 +9,7 @@
 
 ### Hook
 
-<mark>I feel like an idiot while doing my job. A lot.</mark>
+I feel like an idiot while doing my job. A lot.
 
 Now there’s a damn good chance I’m actually an idiot, but the self-respecting part of me wants to challenge that notion.
 
@@ -27,7 +27,7 @@ As in “**Just** update your ruby gems, generate a new SSH key, and run a git r
 
 ### Thesis Statement
 
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background, studied certain courses in university, am fluent in certain technologies, and have read all the right books, articles, and resources. “Just” is a dangerous word.
+“Just” makes me feel like an idiot. “Just” presumes I come from a specific background<del>,</del><ins>and</ins> studied certain courses in university<del>, am fluent</del><ins>. And fluent</ins> in certain technologies<del>, and</del><ins>. And</ins> have read all the right books, articles, and resources. “Just” is a dangerous word.
 
 ### The Whys
 

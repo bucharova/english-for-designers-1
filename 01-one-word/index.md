@@ -22,7 +22,7 @@ As in “**Just** update your ruby gems, generate a new SSH key, and run a git r
 
 “**Just** use this software, platform, toolkit, method…”
 
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background, studied certain courses in university, am fluent in certain technologies, and have read all the right books, articles, and resources. “Just” is a dangerous word.
+“Just” makes me feel like an idiot. “Just” presumes I come from a specific background and studied certain courses in university. And fluent in certain technologies. And have read all the right books, articles, and resources. “Just” is a dangerous word.
 
 We approach problems equipped with our own set of experiences, perspective, and skills. It’s a struggle to step outside of our own perspective when communicating with others, but it’s essential to do so.
 
