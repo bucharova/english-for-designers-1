@@ -1,5 +1,7 @@
 # First Impression
 
+- [View Presentation](img/surname-first-impression-2023.pdf)
+
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
 ## About
@@ -25,8 +27,6 @@ A short description about the work.
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
 <!-- Add a link to your presentation. -->
-
-- [View Presentation](img/surname-first-impression-2023.pdf)
 
 ## Notes
 
