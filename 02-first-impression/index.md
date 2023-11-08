@@ -5,8 +5,8 @@
 
 - [View Presentation](img/surname-draft-first-impression-2023.pdf)
 - [About](#about)
-- [Featured Projects](featured-projects)
-- [Notes](notes)
+- [Featured Projects](#featured-projects)
+- [Notes](#notes)
 
 ## About
 
