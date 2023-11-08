@@ -10,7 +10,7 @@
 
 ## About
 
-<!-- Consider including a headshot. We’re not designing, so keep the width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
+<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
 
@@ -22,6 +22,7 @@ A short description about the work.
 
 ### Featured Project 1 Title
 
+<!-- Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 ![Write an alternative text description.](img/featured-project-01.png)
 
 - A short description about the project — *the what*.
