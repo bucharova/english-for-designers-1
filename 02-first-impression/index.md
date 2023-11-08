@@ -1,14 +1,16 @@
 # First Impression
 
-<!-- Add a link to your presentation. -->
+<!-- This is a comment, visible only to the author: Add a link to your presentation. -->
+<!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
 - [View Presentation](img/surname-first-impression-2023.pdf)
-
-<!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
+- [About](#about)
+- [Featured Projects](featured-projects)
+- [Notes](notes)
 
 ## About
 
-<!-- Consider including a headshot. -->
+<!-- Consider including a headshot. We’re not designing, so keep the width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
 
@@ -36,3 +38,4 @@ Numbered comments about each featured project as presenter notes or speaking poi
 2. …
 3. …
 <!-- And so on. -->
+```
