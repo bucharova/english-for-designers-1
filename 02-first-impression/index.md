@@ -1,9 +1,9 @@
 # First Impression
 
-<!-- This is a comment, visible only to the author: Add a link to your presentation. -->
+<!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [View Presentation](img/surname-first-impression-2023.pdf)
+- [View Presentation](img/surname-draft-first-impression-2023.pdf)
 - [About](#about)
 - [Featured Projects](featured-projects)
 - [Notes](notes)
@@ -38,4 +38,3 @@ Numbered comments about each featured project as presenter notes or speaking poi
 2. …
 3. …
 <!-- And so on. -->
-```
