@@ -4,7 +4,7 @@
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Helpful hint as to what kind of file or destination is here. -->
+- [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
 - [About](#about)
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
