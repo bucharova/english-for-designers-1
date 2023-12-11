@@ -3,7 +3,7 @@
     - [Writing](writing/index.md)
     - [About](about.md)
 
-[Me sitting in a podcasting seat in the studio.](img/portrait-studio-una.jpg)
+![Me sitting in a podcasting seat in the studio.](img/portrait-studio-una.jpg)
 
 ## Hello World, My name is First, and I’m a web developer.
 
