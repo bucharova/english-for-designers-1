@@ -5,7 +5,7 @@
 
 ## About First
 
-![Cool placeholder portrait to come.](img/about-portrait.jpg)
+![Placeholder for cool portrait.](img/about-portrait.jpg)
 
 Hi, I’m First Surname. Over the last two decades, my design practice has focused on designing and building beautiful, accessible web experiences, and on helping organizations create more effective design systems
 
