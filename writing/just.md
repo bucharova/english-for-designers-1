@@ -1,3 +1,8 @@
+- [**First Surname**](./)
+    - [Work](work/index.md)
+    - [Writing](writing/index.md)
+    - [About](about.md)
+
 # “Just”
 
 by Brad Frost
