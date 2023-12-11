@@ -2,7 +2,7 @@
 
 ## Portfolio
 
-- [Content first](/)
+- [Content first](/index.nd)
 - [Design second](?) <!-- Link to Figma, Miro, Notion, etc. -->
 
 ## First Impression
