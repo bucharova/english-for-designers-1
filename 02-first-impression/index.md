@@ -10,11 +10,11 @@
 - [About](#about)
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
+- 
 
-![IMG_269c](https://github.com/bucharova/english-for-designers-1/assets/150127129/a8d27863-3470-4548-bdd2-154289e5f7aawidth=30%height=30)
 
 ## About
-<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. --> 
+![IMG_269c_maly](https://github.com/bucharova/english-for-designers-1/assets/150127129/0d7ceca4-d4f4-442d-8584-f30734274ca7)<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. --> 
 
 
 
