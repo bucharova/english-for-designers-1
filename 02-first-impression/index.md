@@ -11,7 +11,7 @@
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
 
-![IMG_269c](https://github.com/bucharova/english-for-designers-1/assets/150127129/a8d27863-3470-4548-bdd2-154289e5f7aa)
+<![IMG_269c](https://github.com/bucharova/english-for-designers-1/assets/150127129/a8d27863-3470-4548-bdd2-154289e5f7aa)width=30% height=30%>
 
 ## About
 <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. --> 
