@@ -34,7 +34,7 @@ I focuse on branding that I prefer because I like the creativity throughout the 
 
 
 - NESTYDO! is the first product of Karetní svět.
-- It's drinking card game for a couples.
+- It's drinking card game for couples.
 - Helps to break barriers with a partner.
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
