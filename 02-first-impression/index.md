@@ -4,7 +4,8 @@
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. -->
+- [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. --> [AJ_portfolio-komprimovan%C3%BD.pdf](https://github.com/bucharova/english-for-designers-1/files/14014066/AJ_portfolio-komprimovan.C3.BD.pdf)
+
 - [About](#about)
 - [Featured Projects](#featured-projects)
 - [Notes](#notes)
