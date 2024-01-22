@@ -31,19 +31,16 @@ I focuse on branding that I prefer because I like the creativity throughout the 
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-
-
-- NESTYDO! is the first product of Karetní svět.
+- NESTYDO! is the first product of Karetní svět which is my own brand a made w my friend.
 - It's drinking card game for couples.
-- Helps to break barriers with a partner.
+- The game helps to break barriers with a partner.
 
-<!-- Use the same stucture above for the rest of your featured projects. -->
+### DESIN WOOD
+![desin](https://github.com/bucharova/english-for-designers-1/assets/150127129/2fd49332-5748-42c7-bfc7-0b25e9580114)
 
-## Notes
 
-Numbered comments about each featured project as presenter notes or speaking points.
+- Desin Wood is a company and wood manufacture.
+- They focused on wood floors and masive tables.
+  
 
-1. …
-2. …
-3. …
-<!-- And so on. -->
+
