@@ -33,9 +33,9 @@ I focuse on branding that I prefer because I like the creativity throughout the 
 
 
 
-- A short description about the project — *the what*.
-- A short description about the significance of the project — *the whys*.
-- A short description about the outcome of the project — *the result or takeaway*.
+- NESTYDO! is the first product of Karetní svět.
+- It's drinking card game for a couples.
+- Helps to break barriers with a partner.
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
