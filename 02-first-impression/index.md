@@ -14,7 +14,8 @@
 
 
 ## About
-![IMG_269c_maly](https://github.com/bucharova/english-for-designers-1/assets/150127129/0d7ceca4-d4f4-442d-8584-f30734274ca7)<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. --> 
+<img src="https://github.com/bucharova/english-for-designers/assets/150127129/150127129/0d7ceca4-d4f4-442d-8584-f30734274ca7" width=30% height=30%>
+ <!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. --> 
 
 
 
