@@ -42,7 +42,7 @@ I focuse on branding that I prefer because I like the creativity throughout the 
 - Desin Wood is a company and wood manufacture.
 - They focused on wood floors and masive tables.
 
-### Digital Painting
+### DIGITAL PAINTING
 
 ![fff](https://github.com/bucharova/english-for-designers-1/assets/150127129/12527fed-d8dd-47c5-95b9-d532f05e925d)
 
