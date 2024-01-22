@@ -1,7 +1,7 @@
-- [Rough Draft](rough-draft.md) (word dump, sketch)
-- [First Draft](first-draft.md) (make sense, cleanup)
-- [Revision](revision.md) (review, process)
-- [Edit](index.md) (final-ish)
+- [Rough Draft](rough-draft.md) 
+- [First Draft](first-draft.md) 
+- [Revision](revision.md) 
+- [Edit](index.md) 
 
 ## First Draft
 # Promise. 
