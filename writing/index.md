@@ -5,8 +5,9 @@
 
 ## Some writing I’ve done
 
-### [Promise](promise.md) 
-Promise.
+### [01-one-word](index.md) 
+
+## Promise.
 
 What does it actually mean, and what can we imagine? We meet promises from the early stages of our childhood. Usually, it begins within our family relationships. Parents promise us love, care, and a sense of security as they take care of us. We start to making connections with friends. Promise the support or friendship will last forever.
 
