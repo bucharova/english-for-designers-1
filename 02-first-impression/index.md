@@ -31,7 +31,8 @@ A short description about the work.
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![nestydo](https://github.com/bucharova/english-for-designers-1/assets/150127129/737db0c7-8fdb-4a01-8a5e-53d122004158)
+
 
 - A short description about the project — *the what*.
 - A short description about the significance of the project — *the whys*.
