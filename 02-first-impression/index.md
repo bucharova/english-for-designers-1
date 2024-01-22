@@ -5,7 +5,7 @@
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
 
-- [View Presentation](img/surname-draft-first-impression-2023.pdf) (PDF) <!-- Add helpful hint as to what kind of file or destination is here. --> [AJ_portfolio.pdf](https://github.com/bucharova/english-for-designers-1/files/14014071/AJ_portfolio.pdf)
+- [View Presentation](img/surname-draft-first-impression-2023.pdf)  <!-- Add helpful hint as to what kind of file or destination is here. --> [AJ_portfolio.pdf](https://github.com/bucharova/english-for-designers-1/files/14014071/AJ_portfolio.pdf)
 
 - [About](#about)
 - [Featured Projects](#featured-projects)
