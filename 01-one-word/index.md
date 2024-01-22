@@ -1,38 +1,14 @@
-# “Just”
+# Promise. 
 
-by [Brad Frost](https://bradfrost.com)
+What does it actually mean, and what can we imagine?
+We meet promises from the early stages of our childhood. Usually, it begins within our family relationships. Parents promise us love, care, and a sense of security as they take care of us. We start to making connections with friends. Promise the support or friendship will last forever.
 
-28 Jan 2014
+The only promises that tend to are those from our parents, or at least, that's how it should be. Its sad, it's not always the case. Not everyone is fortunate enough to experience this. As a kids we cant hold the weight of words. So it failed usually to keep the promises. Friendships endings because of the changes in our personalities during growing up.
 
-- - -
+There are promises that we may struggle with. Some things we cant control and things around may prevent us from keeping our promises. Like saying "drive safe" or "take care of yourself." Yes, I promise. Promises guarantee us emotional fulfillment. A request that we often don't understand the weight of words.
 
-I feel like an idiot while doing my job. A lot.
+Promises have started move into our professional lives. Companies, employers, or even we ourselves make guarantees to our clients. Distrust among people has shifted us into a nation of paper. We need everything to be sign it. These are the only promises that hold because we still don't know the true weight of these words.
 
-Now there’s a damn good chance I’m actually an idiot, but the self-respecting part of me wants to challenge that notion.
-
-When I get stuck on a task or am looking for recommendations for tools, resources, solutions, or whatever, I often take to Twitter to ask for help.
-
-Seconds after posting my quandary, my stream gets flooded with a host of advice, links, insights, and opinions. This “crowd-sourcing my knowledgesphere” is a wonderful thing. But one word in all those proffered solutions tends to stick out in my mind like a jagged, rusty nail ready to figuratively jam itself into my eye socket.
-
-**“Just…”**
-
-As in “**Just** update your ruby gems, generate a new SSH key, and run a git rebase…“
-
-“**Just** clone the dev branch, add those three grunt tasks, and recompile…”
-
-“**Just** use this software, platform, toolkit, method…”
-
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background and studied certain courses in university. And fluent in certain technologies. And have read all the right books, articles, and resources. “Just” is a dangerous word.
-
-We approach problems equipped with our own set of experiences, perspective, and skills. It’s a struggle to step outside of our own perspective when communicating with others, but it’s essential to do so.
-
-The amount of available knowledge in our field (or any field) is growing larger, more complex, and more segmented all the time. That everyone has downloaded the same fundamental knowledge on any topic is becoming less and less probable. Because of this, we have to be careful not to make too many assumptions in our documentation, blog posts, tutorials, and communications.
-
-Imagine yourself explaining a particular task to an earlier version of yourself. Once upon a time, you didn’t know what you know now. Provide context. The beauty of [hypertext](https://en.wikipedia.org/wiki/Hypertext) is that we’re able to add much-needed context, fast. It’s helpful for newbies but easy enough for those already in-the-know to scan over. And making documentation more human-readable benefits everyone.
-
-I don’t envy those just entering the field of web development. Besides learning the basics, there’s an expectation to be proficient in an endless laundry list of buzzwords and technologies. I’m seven years into my career and still feel like I’m still on Chapter 1 of the Big Book of Web Design.
-
-So think twice before suggesting someone “just” [insert any task here]. You just might make them feel like an idiot.
 
 ## Process
 
