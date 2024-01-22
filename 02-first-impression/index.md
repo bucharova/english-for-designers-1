@@ -12,7 +12,7 @@
 - [Notes](#notes)
 
 ## About
-<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. --> ![IMG_269c](https://github.com/bucharova/english-for-designers-1/assets/150127129/2aff8d31-bb2b-4dfa-8e7f-ee9aa4840111)
+<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. --> [IMG_269c](https://github.com/bucharova/english-for-designers-1/assets/150127129/2aff8d31-bb2b-4dfa-8e7f-ee9aa4840111)
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
 
