@@ -12,13 +12,13 @@
 - [Notes](#notes)
 
 ## About
-
-<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. -->
+<!-- Consider including a headshot. We’re not designing, so keep the image width/height around 320px x 320px (square). Replace "surname" with your surname in the file name. --> ![IMG_269c](https://github.com/bucharova/english-for-designers-1/assets/150127129/2aff8d31-bb2b-4dfa-8e7f-ee9aa4840111)
 
 ![Write an alternative text description.](img/surname-headshot.jpg)
 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
+Hi, my name is Šárka Bucharová, i am 21. I am Graphic designer, digital painter, painter, web designer, 3D maker and just for fun photographer..
 
+I focuse on branding that I prefer because I like the creativity throughout the project from A - Z. Among other things i would call myself more like a mix designer. I jump through techniques depenting in my mood. At my free time you can meet me in the gallery, but also at rave or gym. I have been doing martial sports since childhood. I like the fact that after training you put on your make-up and leave looking like a lady. I also love cooking so there's no way of being hungry at my home.
 ## Featured Projects
 
 A short description about the work.
