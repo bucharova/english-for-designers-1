@@ -1,46 +1,19 @@
-- [Rough Draft](rough-draft.md) (word dump, sketch)
-- [First Draft](first-draft.md) (make sense, cleanup)
-- [Revision](revision.md) (review, process)
-- [Edit](index.md) (final-ish)
+- [Rough Draft](rough-draft.md) 
+- [First Draft](first-draft.md) 
+- [Revision](revision.md) 
+- [Edit](index.md) 
 
 ## Revision
 
-# Just
+# Promise.
+ 
 
-### Hook
+What does it actually mean, and what can we imagine?
+We meet promises from the early stages of our childhood. Usually, it begins within our family relationships. Parents promise us love, care, and a sense of security as they take care of us. As we start making connections with friends, promises of support or friendship will last forever.
 
-<mark>I feel like an idiot while doing my job. A lot.</mark>
+The only promises that tend to are those from our parents, or at least, that's how it should be. Its sad, it's not always the case. Not everyone is fortunate enough to experience this. As a kids, we might not hold the weight of words. So its often failing to keep promises, leading friendships to fade away over time due to the changes in our personalities during growing up.
 
-Now there’s a damn good chance I’m actually an idiot, but the self-respecting part of me wants to challenge that notion.
+There are promises that we may struggle with. Some things we cant control, and things around may prevent us from keeping our promises, like saying "drive safe" or "take care of yourself." Yes, I promise. Promises emotionally guarantee the fulfillment of a request that we often don't understand the weight of words.
 
-When I get stuck on a task or am looking for recommendations for <del>tools/resources/strategies/solutions/whatever</del> <ins>tools, resources, solutions, or whatever</ins>, I often take to Twitter to ask for help.
+Promises have started move into our professional lives. Companies, employers, or even we ourselves make guarantees to our clients. Distrust among people has shifted us into a nation of paper, where everything needs to be documented. These are the only promises that hold because we probably still don't know the true weight of these words.
 
-Seconds after posting my quandary, my stream gets flooded with a host of advice, links, insights, and opinions. This “crowd-sourcing my knowledgesphere” is a wonderful thing. But one word in all those proffered solutions tends to stick out in my mind like a jagged, rusty nail ready to figuratively jam itself into my eye socket.
-
-**“Just…”**
-
-As in “**Just** update your ruby gems, generate a new SSH key, and run a git rebase…“
-
-“**Just** clone the dev branch, add those three grunt tasks, and recompile…”
-
-“**Just** use this <del>software/platform/toolkit/methodology</del> <ins>software, platform, toolkit, method</ins>…”
-
-### Thesis Statement
-
-“Just” makes me feel like an idiot. “Just” presumes I come from a specific background<del>,</del><ins>and</ins> studied certain courses in university<del>, am fluent</del><ins>. And fluent</ins> in certain technologies<del>, and</del><ins>. And</ins> have read all the right books, articles, and resources. “Just” is a dangerous word.
-
-### The Whys
-
-We approach problems equipped with our own set of experiences, perspective, and skills. It’s <del>extremely challenging</del> <ins>a struggle</ins> to step outside of our own perspective when communicating with others, but it’s <del>increasingly</del> essential to do so.
-
-The amount of available knowledge in our field (or any field <del>really</del>) is growing larger, more complex, and more segmented all the time. That everyone has downloaded the same fundamental knowledge on any topic is becoming less and less probable. Because of this, we have to be careful not to make too many assumptions in our documentation, blog posts, tutorials, <del>wikis,</del> and communications.
-
-Imagine yourself explaining a particular task to an earlier version of yourself. Once upon a time, you didn’t know what you know now. Provide context. The beauty of [hypertext](https://en.wikipedia.org/wiki/Hypertext) is that we’re able to <del>quickly</del> add much-needed context<ins>, fast. It’s</ins> helpful for <del>n00bs</del> <ins>newbies</ins> but easy enough for those already in-the-know to scan over. And making documentation more human-readable benefits everyone.
-
-### Conclusion
-
-I don’t envy those just entering the field of web development. <del>In addition to</del> <ins>Besides</ins> learning the <del>fundamentals</del> <ins>basics</ins>, there’s an expectation to be proficient in an <del>increasingly exhausting</del> <ins>endless</ins> laundry list of buzzwords and technologies. I’m seven years into my career and still feel like I’m still on Chapter 1 of the Big Book of Web Design.
-
-### Takeaway
-
-So think twice before suggesting someone “just” [insert any task here]. You just might make them feel like an idiot.
