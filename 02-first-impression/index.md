@@ -46,7 +46,15 @@ I focuse on branding that I prefer because I like the creativity throughout the 
 
 ![fff](https://github.com/bucharova/english-for-designers-1/assets/150127129/12527fed-d8dd-47c5-95b9-d532f05e925d)
 
-These are my fav costume I made.
+- These are my fav costumes I made.
+
+
+### ANALOG
+
+![analog](https://github.com/bucharova/english-for-designers-1/assets/150127129/416f6077-551d-4965-9e83-52d759936e42)
+
+I prefer analog photography. It become a part of my trips.
+
 
 
 
